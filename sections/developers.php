@@ -243,7 +243,7 @@ body {
             $developers = [
                 ["nama" => "Muhammad Haikal Firdaur", "role" => "Frontend Developer", "foto" => "haikal.jpg"],
                 ["nama" => "Muhammad Iqbal Algantis", "role" => "System Architect", "foto" => "iqbal.jpg"],
-                ["nama" => "Faisal Andini", "role" => "Backend Developer", "foto" => "faisal.jpg"],
+                ["nama" => "Muhammad Faeisal Andhini", "role" => "Backend Developer", "foto" => "faisal.jpg"],
                 ["nama" => "Fenroy Yedithia", "role" => "UI/UX Designer", "foto" => "fenroy.jpg"],
                 ["nama" => "Zulfan Hadi", "role" => "Mobile & Integration Engineer", "foto" => "zulfan.jpg"],
             ];
